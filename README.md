@@ -4,7 +4,7 @@
 ```
 cd terraform
 terraform init
-terraform apply -auto-approve
+terraform apply --auto-approve
 ```
 
 ### Run the Ansible Playbook:
