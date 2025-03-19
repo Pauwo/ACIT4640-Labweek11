@@ -1,3 +1,6 @@
-# 4640-w11-lab-start-w25
+# Labweek 11
 
-See lab instructions on D2L
+### Deploy infrastructure with Terraform:
+```cd terraform
+terraform init
+terraform apply -auto-approve```
