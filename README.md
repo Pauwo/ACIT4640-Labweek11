@@ -14,5 +14,5 @@ ansible-playbook -i inventory/aws_ec2.yml playbook.yml
 ```
 
 ### Screenshot
-![victory screenshot of the HTML document](Lab6AWSami.png)
+![victory screenshot of the HTML document](Labweek11SS.png)
 
