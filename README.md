@@ -19,6 +19,11 @@ sudo apt update
 sudo apt install python3-boto3
 ```
 
-### Screenshot
+### Screenshot:
 ![victory screenshot of the HTML document](Labweek11SS.png)
 
+### After Taking Screenshot:
+```
+cd terraform
+terraform delete --auto-approve
+```
