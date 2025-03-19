@@ -1,4 +1,4 @@
-# Labweek 11
+# Labweek11
 
 ### Deploy infrastructure with Terraform:
 ```
